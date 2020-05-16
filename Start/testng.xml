@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<Listeners>
+<Listener class-name= common_utility.ListenerClass.class></Listener>
+</Listeners>
+  <test name="Test">
+    <classes>
+    <class name="flipkart.testcases.TC_001"/>
+      <!-- <class name="flipkart.testcases.TC_002_Validate_name"/> -->
+     
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
