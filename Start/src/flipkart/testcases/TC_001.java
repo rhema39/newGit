@@ -21,7 +21,7 @@ import flipkart.pages.CheckoutPage;
 import flipkart.pages.HomePage;
 import flipkart.pages.ProductListingPage;
 import flipkart.pages.ProductPage;
-@Listeners(ListenerClass.class)
+//@Listeners(ListenerClass.class)
 public class TC_001 extends BaseTestClass {
 
 	@Test(dataProvider="searchCategory" )

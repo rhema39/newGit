@@ -5,7 +5,7 @@
     <classes>
       <class name="flipkart.testcases.TC_001">
         <methods>
-          <include name="simpleTest" invocation-numbers="0"/>
+          <include name="simpleTest"/>
           <include name="afterMethod"/>
           <include name="beforeMethod"/>
         </methods>
